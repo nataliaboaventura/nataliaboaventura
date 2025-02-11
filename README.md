@@ -1,11 +1,10 @@
 ## Oi! Eu sou Natália Boaventura, Analista de dados 💻 
-
             
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg">
 <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg">
-            <img align="center" alt="Rafa-Python" height="30" width="40"  src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.svg">
+            <img align="center" alt="Rafa-Python" height="30" width="30"  src="https://avatars.githubusercontent.com/u/22799945?s=200&v=4.svg">
   <img align="center" alt="SQL" height="30" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
               

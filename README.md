@@ -24,7 +24,7 @@
 
 ##
 
-Sou formada em Ciência e Tecnologia e entusiasta de análise e gerenciamento de dados. utilizo Python, SQL, Power BI e Excel para manipulação, visualização e modelagem de dados. Atualmente, estou aprofundando meus estudos em AWS e aprendizado de máquina, sempre buscando aprimorar minhas habilidades e acompanhar as tendências.
+Sou formada em Ciência e Tecnologia e entusiasta de análise e gerenciamento de dados. Utilizo Python, SQL, Power BI e Excel para manipulação, visualização e modelagem de dados. Atualmente, estou aprofundando meus estudos em AWS e aprendizado de máquina, sempre buscando aprimorar minhas habilidades e acompanhar as tendências.
 
 Tenho um grande interesse na área de dados e tenho desenvolvido projetos independentes para construir meu portfólio e aplicar meus conhecimentos na prática.
 
